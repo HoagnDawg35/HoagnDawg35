@@ -2,7 +2,7 @@
 
 # 💫About Me :
 
-🌱 I’m currently learning AI, Embedded AI, ROS
+🌱 I’m currently learning AI, Embedded AI, ROS <br>
 📫 How to reach me: Danghuyhoang35@gmail.com
 
 ## 🌐Socials

@@ -3,9 +3,9 @@
 </div>
 
 # 💫About Me :
-- 🎓 I'm a Electrical & Electronics Engineering sophomore and being a member of an AI Laboratory (UTE-AI Lab) <br> at Ho Chi Minh University of Technology and Education (HCMUTE) <br> 
+- 🎓 I'm a Electrical & Electronics Engineering sophomore and being a member of an AI Laboratory (UTE-AI Lab) <br> at Ho Chi Minh University of Technology and Education (HCMUTE). <br> 
 - 🌱 I'm currently learning and practicing AI, Embedded AI, ROS. <br>
-- 🔭 Interested topics: Computer Vision, NLP, LLM <br>
+- 🔭 Interested topics: Computer Vision, NLP, LLM. <br>
 - 📫 Contact me via: Danghuyhoang35@gmail.com
 
 ## 🌐 Socials  
